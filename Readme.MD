@@ -13,7 +13,7 @@
 ---
 
 ## 🧠 What I'm Doing Right Now
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=8A2BE2&width=500&lines=Working+on+MOON.dll;Optimizing+Unity+modules;Experimenting+with+AI;Building+Nebula-OS;Creating+futuristic+GUIs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=8A2BE2&width=500&lines=Working+on+MOON.dll;Optimizing+Unity+modules;Working+On+Moon;Building+Nebula-OS;Creating+futuristic+GUIs)](https://git.io/typing-svg)
 
 ---
 
