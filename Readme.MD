@@ -28,7 +28,7 @@
 | 🌙 Project | 💬 Description | 🧠 Tech |
 |------------|----------------|---------|
 | [**MOON.dll**](https://github.com/weirdss3/MOON) | Modular DLL — purple/black UI, runtime patching | C#, BepInEx, Unity |
-| [**Nebula-OS**](https://github.com/weirdss3/Nebula-OS) | AI-enhanced experimental OS | C#, .NET, AI APIs |
+
 
 ---
 
