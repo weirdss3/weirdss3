@@ -33,15 +33,15 @@
 ---
 
 ## ☕ Fun Facts
-- 💜 Theme inspiration: **purple nebula & dark space**
-- 🌕 Favorite combo: `C#` + `Unity` + `BepInEx`
-- 🔮 Motto: *“Make it modular. Make it sleek. Make it MOON.”*
-- 🎧 Coding soundtrack: chillwave & synthcore
+- 💜 Theme inspiration: **Just black and purple**
+- 🌕 Favorite Languange: `C#`
+- 🔮 Motto: *“If you dont skid in 2025 your weird”*
+- 🎧 Gooning to kralsei: Yes
 
 ---
 
 ## 🤝 Connect
-[![Discord](https://img.shields.io/badge/-weirdss3%230001-5865F2?logo=discord&logoColor=white)](https://discord.gg/yourinvite)
+[![Discord](https://img.shields.io/badge/-Arrowedlordxs%230001-5865F2?logo=discord&logoColor=white)](https://discord.gg/femz)
 [![GitHub followers](https://img.shields.io/github/followers/weirdss3?label=Follow&style=social)](https://github.com/weirdss3)
 ![Visitors](https://komarev.com/ghpvc/?username=weirdss3&color=8A2BE2&style=flat-square)
 
