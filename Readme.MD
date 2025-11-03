@@ -5,7 +5,7 @@
 
   <!-- Title -->
   <h1 style="color:#b300ff; font-family: 'Fira Code', monospace;">🌑 MOON 🌑</h1>
-  <h3 style="color:#aaa; font-family: 'Fira Code', monospace;">my purple/black DLL that’s scary smooth</h3>
+  <h3 style="color:#aaa; font-family: 'Fira Code', monospace;">my  DLL</h3>
 
   <!-- Badges flex -->
   <p>
@@ -18,12 +18,12 @@
   <br>
 
   <!-- About me talking -->
-  <h2 style="color:#b300ff;">what’s up w/ MOON</h2>
+  <h2 style="color:#b300ff;">Stuff i do with moon</h2>
   <p style="color:#aaa; max-width:650px; font-size:16px;">
-    aight so MOON.dll is my baby — clean, dark, purple/black vibes everywhere.  
-    I made it to idk. 
-    Basically it’s goonable,touchable,skinnable idk 
-    purple = power, black = danger. im tuff.
+    just clean, dark, purple/black 
+    I made it to actually have a advanced dll 
+    Basically its tuff
+    purple = power, black = mango.
   </p>
 
   <br>
@@ -41,7 +41,8 @@
   <!-- Projects -->
   <h2 style="color:#b300ff;">stuff I’m cookin’</h2>
   <p style="color:#aaa; max-width:700px;">
-    <b>MOON.dll</b> — purple/black, modular DLL.<br>
+    <b>MOON.dll</b> — purple/black, modular DLL.  
+    that’s literally it. all about that life.
   </p>
 
   <br>
@@ -50,18 +51,16 @@
   <h2 style="color:#b300ff;">random vibes</h2>
   <p style="color:#aaa; max-width:650px;">
     - purple + black = my whole life<br>
-    - kralsei = coding fuel<br>
-    - motto: “make it modular, make it slick, make it scary”<br>
-    - always messin’  with kralsei
+    - Kralsei = coding fuel<br>
+    - motto: “if it aint spongebob its no bob”<br>
   </p>
 
   <br>
 
   <!-- Links / Contact -->
-  <h2 style="color:#b300ff;">hit me up</h2>
+  <h2 style="color:#b300ff;">Skids hmu</h2>
   <p style="color:#aaa;">
-    <a href="https://github.com/weirdss3"><img src="https://img.shields.io/badge/GitHub-ArrowedLordXS-%23b300ff?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-ArrowedLordXS-%235865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://github.com/weirdss3"><img src="https://img.shields.io/badge/GitHub-weirdss3-%23b300ff?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Visitors-Count-%23b300ff?style=for-the-badge"/></a>
   </p>
 
