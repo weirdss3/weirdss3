@@ -1,53 +1,31 @@
-# 👨‍💻 C# Developer Portfolio
+# 👨‍💻 C# / .NET Developer
 
-Welcome to my GitHub profile! I'm a passionate C# developer focused on building clean, efficient, and scalable applications using the .NET ecosystem.
+<div align="center">
 
----
+### ⚡ Writing code, breaking limits, shipping clean systems ⚡
 
-## 💃 Developer Energy
+<img src="https://media.tenor.com/3gZbJXgq8KkAAAAC/terry-davis-dancing-moves.gif" width="320"/>
 
-Because coding is better with rhythm:
-
-![Terry Davis Dancing](https://tenor.com/view/terry-davis-dancing-moves-gif-15710700)
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 C# / .NET Developer
-- 🧠 I like code :sob:
-- 🔧 i make stuff like 
-- 📚 im learning js
+- 💻 C# / .NET software developer  
+- 🧠 Focused on backend systems, APIs, and clean architecture  
+- ⚙️ Enjoy building tools that automate boring things  
+- 📦 Passionate about performance and scalable design  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** C#, lua
-- **Databases:** SQL Server, PostgreSQL, SQLite
-- **Tools:** Visual Studio
-
----
-
-## 📂 Featured Projects
-
-### 🔹Skidded stuff
-LunarX Old skidded project
-
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-
----
-
-## 📫 Contact
-
-
-- GitHub: https://github.com/weirdsss3
-
----
-
-> “You must answer the question is this n-” – Terry davis
+```csharp
+public class Developer
+{
+    public string Language = "C#";
+    public string Framework = ".NET / ASP.NET Core";
+    public string Database = "SQL Server / PostgreSQL";
+    public string Tools = "Visual Studio, Git, Docker";
+}
