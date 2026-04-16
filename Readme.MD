@@ -8,17 +8,13 @@
   </tr>
   <tr>
     <td align="center" width="32.5%">
-      <img src="https://raw.githubusercontent.com/tinyopsec/tinyopsec/main/assets/interests.png" alt="Interests" width="100%">
-    </td>
-    <td align="center" width="32.5%">
       <img src="https://raw.githubusercontent.com/tinyopsec/tinyopsec/main/assets/logo.gif" alt="logo" width="100%">
     </td>
   </tr>
   <tr>
     <td colspan="3">
       <h3>📁 Projects</h3>
-      <p>I work on personal projects focused on <strong>simplicity</strong>, <strong>performance</strong>, and learning by doing.<br>
-      Check out my repos for tools, scripts, and experiments in system optimization and security.</p>
+      <p>Just check my repo's</p>
       <br>
       <a href="https://github.com/tinyopsec"><img src="https://img.shields.io/badge/GitHub-repos-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;
       <img src="https://img.shields.io/badge/Linux-222222?style=flat-square&logo=linux&logoColor=white" alt="Linux">&nbsp;
