@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### ⚡ Writing code, breaking limits, shipping clean systems ⚡
+### ⚡ Writing code, shipping systems, occasionally achieving enlightenment ⚡
 
-<img src="https://media.tenor.com/3gZbJXgq8KkAAAAC/terry-davis-dancing-moves.gif" width="320"/>
+<img src="https://media.tenor.com/3gZbJXgq8KkAAAAC/dancing-terry-davis.gif" width="320"/>
 
 </div>
 
@@ -12,20 +12,19 @@
 
 ## 🚀 About Me
 
-- 💻 C# / .NET software developer  
-- 🧠 Focused on backend systems, APIs, and clean architecture  
-- ⚙️ Enjoy building tools that automate boring things  
-- 📦 Passionate about performance and scalable design  
+- 💻 C# / .NET Developer  
+- 🧠 Backend systems, APIs, performance-focused design  
+- ⚙️ Automation enjoyer  
+- 📦 Clean architecture advocate  
 
 ---
 
-## 🛠️ Tech Stack
+## 💃 Mood Check
 
-```csharp
-public class Developer
-{
-    public string Language = "C#";
-    public string Framework = ".NET / ASP.NET Core";
-    public string Database = "SQL Server / PostgreSQL";
-    public string Tools = "Visual Studio, Git, Docker";
-}
+When the build finally compiles:
+
+<div align="center">
+
+<img src="https://media.tenor.com/3gZbJXgq8KkAAAAC/dancing-terry-davis.gif" width="280"/>
+
+</div>
